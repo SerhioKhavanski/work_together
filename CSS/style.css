@@ -18,3 +18,14 @@
     src: url(../font/Formular-Medium.ttf);
     font-weight: 500;
 }
+.comment{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin-left: 35%; 
+    margin-right: 42%;
+}
+.comment2{
+    padding-top: 3%;
+}
