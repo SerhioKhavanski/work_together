@@ -18,3 +18,27 @@
     src: url(../font/Formular-Medium.ttf);
     font-weight: 500;
 }
+.centText{
+    text-align: center;
+}
+.Group{
+    margin-left: 13%;
+    margin-top: 3%;
+}
+.block{
+    display: flex;
+    justify-content: space-between;
+}
+.blockText{
+    margin-top: 2.1%;
+    margin-right: 7%;
+}
+.blockText>h3{
+    font-size: 1.5vw;
+}
+.blockText>p{
+    margin-top: 2.9%;
+}
+.blockColumn1{
+    width: 25%;
+}
