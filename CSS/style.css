@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: 'Formular';
+    src: url(../font/Formular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Formular';
+    src: url(../font/Formular-Black.ttf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'Formular';
+    src: url(../font/Formular-Medium.ttf);
+    font-weight: 500;
+}
