@@ -18,3 +18,10 @@
     src: url(../font/Formular-Medium.ttf);
     font-weight: 500;
 }
+.garant>h2,.garant>p{
+    text-align: center;
+}
+.garantcards{
+    display: flex;
+    justify-content: space-between;
+}
