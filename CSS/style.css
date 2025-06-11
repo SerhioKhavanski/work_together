@@ -9,12 +9,65 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: 'Formular';
+    font-family: 'Formular-B';
     src: url(../font/Formular-Black.ttf);
     font-weight: 800;
 }
 @font-face {
-    font-family: 'Formular';
+    font-family: 'Formular-M';
     src: url(../font/Formular-Medium.ttf);
     font-weight: 500;
+}
+.centText{
+    text-align: center;
+    font-size: 1.7vw;
+    font-family: Formular-B;
+}
+.Group{
+    margin-left: 11%;
+    margin-right: 8%;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+}
+.block{
+    display: flex;
+    justify-content: space-between;
+
+}
+.block>img{
+    width: 30%;
+}
+.blockText{
+    margin-top: 2.1%;
+    margin-right: 7%;
+     margin-left: 4%;
+}
+.blockText>h3{
+    font-size: 1.2vw;
+    font-family: Formular-B;
+}
+.blockText>p{
+     margin-top: 2.5%;
+     font-family: Formular;
+}
+.blockColumn1{
+    width: 31%;
+    height: 55%;
+}
+.blockColumn2{
+    width: 31%;
+}
+.blockColumn2 img{
+    width: 27%;
+}
+.blockColumn3{
+    width: 31%;
+    height: 55%;
+}
+.s{
+    margin-top: 1%;
+}
+.w{
+    margin-top: 1.3%;
 }
