@@ -23,9 +23,40 @@
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 2%;
-    margin-left: 35%; 
-    margin-right: 42%;
+    width: 30%;
+    margin: auto;
+    gap: 2vh;
 }
-.comment2{
+.comment1{
+    width: 48%;
+}
+.comment1>input{
+    margin-top: 5%;
     padding-top: 3%;
+    width: 100%;
+
+}
+.comment2>textarea{
+    display: inline-block;
+    padding-top: 3%;
+    width: 305%;
+    height: 170%;
+}
+.color{
+    background-color: rgb(83, 21, 133);
+    border-radius: 2%;
+    text-align: center;
+    width: 26.2%;
+    height: 5%;
+    margin-left: 37%;
+}
+.color>h2{
+    color: white;
+}
+.footer1{
+    background-color: rgb(28, 30, 31);
+    height: 60%;
+}
+.gorizont>h2{
+    color: white;
 }
